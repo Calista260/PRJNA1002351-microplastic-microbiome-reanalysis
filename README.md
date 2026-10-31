@@ -22,7 +22,7 @@ Key DADA2 settings included forward truncation at 260 bp, reverse truncation at 
 
 ## Supplementary materials
 
-The supplementary package is being prepared for deposit in this repository. Planned contents include:
+The validated supplementary package is available as `PRJNA1002351_Supplementary_Materials_Package.zip` for upload. It contains:
 
 - Sample/accession metadata crosswalk
 - Per-sample DADA2 denoising statistics
@@ -42,4 +42,4 @@ Please cite the associated manuscript and the original dataset publication. A pe
 
 ## Deposit status
 
-The repository has been created. Supplementary files and the Zenodo DOI have not yet been deposited or assigned.
+The repository and study README are in place. The validated supplementary ZIP still needs to be uploaded. A Zenodo DOI will be added after the public archive is created.
